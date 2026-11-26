@@ -1,0 +1,24 @@
+AudioBook,Zero to One,Peter Thiel,Business,300
+AudioBook,Atomic Habits,James Clear,Self-Help,320
+AudioBook,The Psychology of Money,Morgan Housel,Finance,340
+AudioBook,The Lean Startup,Eric Ries,Business,360
+PrintedBook,Atomic Design,Brad Frost,Design,200
+PrintedBook,Grokking Algorithms,Aditya Bhargava,Computer Science,256
+PrintedBook,You Don't Know JS,Kyle Simpson,Programming,278
+AudioBook,Ender's Game,Orson Scott Card,Sci-Fi,640
+AudioBook,The Hobbit,J.R.R. Tolkien,Fantasy,680
+PrintedBook,The Pragmatic Programmer,Andrew Hunt,Programming,352
+PrintedBook,Design Patterns,Gamma et al.,Software Engineering,395
+PrintedBook,Refactoring,Martin Fowler,Programming,448
+AudioBook,Sapiens,Yuval Noah Harari,History,915
+PrintedBook,Clean Code,Robert Martin,Programming,464
+AudioBook,Project Hail Mary,Andy Weir,Sci-Fi,960
+PrintedBook,Designing Data-Intensive Applications,Martin Kleppmann,Software Engineering,616
+AudioBook,Dune,Frank Herbert,Sci-Fi,1260
+PrintedBook,Deep Learning,Ian Goodfellow,AI,775
+PrintedBook,Code Complete,Steve McConnell,Software Engineering,960
+PrintedBook,Thinking in Java,Bruce Eckel,Programming,1150
+PrintedBook,Artificial Intelligence: A Modern Approach,Stuart Russell,AI,1152
+PrintedBook,Introduction to Algorithms,Cormen et al.,Computer Science,1312
+PrintedBook,Database System Concepts,Silberschatz,Databases,1376
+PrintedBook,Test Work,Joey Matignas,Programing,10
